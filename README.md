@@ -1,5 +1,4 @@
-Added photo
+** Added photo
 
-![customer dash rewards](customer.png)
-
+<img src='./public/customer.png'/>
  
